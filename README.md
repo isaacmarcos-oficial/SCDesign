@@ -1,6 +1,4 @@
-<div width="100%" align="center" justify="center">
-  <img src="/scdesign.png" width="75%"/>
-</div>
+<img src="/scdesign.png"/>
 
 # Website SC Design
 
