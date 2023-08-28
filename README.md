@@ -1,6 +1,6 @@
 # Landing Page SC Design
 
-Bem-vindo ao repositório da Landing Page do SC Design!
+Bem-vindo ao repositório do projeto SC Design!
 
 Esta é a página de destino simples e eficaz da antiga marca SC Design, onde oferecíamos serviços de design, web design e criação de sites. A página é construída utilizando apenas HTML e foi projetada para ser uma vitrine concisa do nosso trabalho.
 
@@ -23,6 +23,4 @@ Embora esta landing page seja uma representação estática da antiga marca, fic
 
 Agradecemos a todos que acompanharam e apoiaram a jornada do SC Design. Enquanto nos preparamos para a próxima fase como Isaac Marcos Digital Solutions, valorizamos os fundamentos que nos trouxeram até aqui.
 
-Explore o repositório e relembre a essência do SC Design Landing Page! Mantenha-se atento a novas atualizações e projetos empolgantes da Isaac Marcos Digital Solutions.
-
-#SCDesign #WebDesign #LandingPage #HTML
+Explore o repositório e relembre a essência do SC Design! Mantenha-se atento a novas atualizações e projetos empolgantes da Isaac Marcos Digital Solutions.
