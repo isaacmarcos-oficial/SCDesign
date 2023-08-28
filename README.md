@@ -1,10 +1,14 @@
 <img src="/scdesign.png"/>
 
-# Website SC Design
+# SC Design
 
 Bem-vindo ao repositório do projeto SC Design!
 
 Esta é a página de destino simples e eficaz da antiga marca SC Design, onde oferecíamos serviços de design, web design e criação de sites. A página é construída utilizando apenas HTML e foi projetada para ser uma vitrine concisa do nosso trabalho.
+
+## Acesso ao Projeto
+
+Para visualizar o site do SC Design, clique [aqui](https://scdesign.com.br).
 
 ## Características
 
