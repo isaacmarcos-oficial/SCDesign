@@ -1,4 +1,8 @@
-# Landing Page SC Design
+<div width="100%" align="center" justify="center">
+  <img src="/scdesign.png" width="75%"/>
+</div>
+
+# Website SC Design
 
 Bem-vindo ao repositório do projeto SC Design!
 
